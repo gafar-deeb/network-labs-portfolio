@@ -1,0 +1,7 @@
+[ Remote Peer ]
+      |
+   (Internet)
+      |
+[MikroTik WireGuard Server]
+      |
+   [ Internal LAN ]
