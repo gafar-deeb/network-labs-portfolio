@@ -1,0 +1,9 @@
+[ Site A LAN ]
+      |
+[MikroTik A]
+      |
+  (Internet)
+      |
+[MikroTik B]
+      |
+[ Site B LAN ]
