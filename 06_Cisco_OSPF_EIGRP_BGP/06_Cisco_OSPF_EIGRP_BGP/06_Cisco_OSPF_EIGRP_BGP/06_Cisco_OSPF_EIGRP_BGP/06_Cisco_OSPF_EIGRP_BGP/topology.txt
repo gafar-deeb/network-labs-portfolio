@@ -1,0 +1,9 @@
+[ OSPF Domain ]
+     |
+[ OSPF Router ]
+     |
+[ BGP Edge Router ] ---- BGP ---- [ BGP Edge Router ]
+     |
+[ EIGRP Router ]
+     |
+[ EIGRP Domain ]
